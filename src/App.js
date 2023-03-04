@@ -1,9 +1,9 @@
 import React from "react";
-import GridLayout from "./components/GridLayout";
+import OrderSummary from "./components/OrderSummary";
 
 const App = () => {
   return (
-    <GridLayout />
+    <OrderSummary />
   );
 };
 
