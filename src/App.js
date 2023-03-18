@@ -1,9 +1,9 @@
 import React from "react";
-import OrderSummary from "./components/OrderSummary";
+import Layout1 from "./components/Layout1";
 
 const App = () => {
   return (
-    <OrderSummary />
+    <Layout1 />
   );
 };
 
